@@ -46,16 +46,16 @@ The scripts will generate three heatmaps for COVID-19, influenza, and pneumonia 
 
 The COVID-19 heatmap illustrates the monthly deaths for each year, with a custom color scale. The highest monthly death count is highlighted.
 
-![Will update with image](path/to/image.png)
+![Covid Heatmap](images/Covid.png)
 
 ### Influenza Deaths
 
 The influenza heatmap illustrates the monthly deaths for each year, with a custom color scale. The highest monthly death count is highlighted.
 
-![Will update with image](path/to/image.png)
+![Influenza Heatmap](images/Influenza.png)
 
 ### Pneumonia Deaths
 
 The pneumonia heatmap illustrates the monthly deaths for each year, with a custom color scale. The highest monthly death count is highlighted.
 
-![Will update with image](path/to/image.png)
+![Pneumonia Heatmap](images/Pneumonia.png)
